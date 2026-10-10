@@ -1,0 +1,6 @@
+# map            game type
+bloodgulch       slayer
+sidewinder       team_slayer
+hangemhigh       ctf
+damnation        team_slayer
+chillout         slayer

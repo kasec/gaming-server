@@ -1,0 +1,14 @@
+# Game data and runtime state (never commit; per-person content)
+data/
+saves/
+debug.txt
+control_*
+moderators.txt
+bans.txt
+admin/
+
+# Build inputs / artifacts
+image/
+bin/
+*.zip
+.env
